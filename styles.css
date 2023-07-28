@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+body {
+    background-color:cornsilk;
+    margin: 8px;
+    padding:0cap
+}
+h4 {
+    color: aqua
+}
+h1 {
+    color: purple
+}
+.funParagraph {
+    color: green
+
+}
+h2 {
+    color:darkolivegreen
+}
+
+h3 {
+    color: red;
+}
+.funkyFont {
+    background-color: rgba(229, 59, 115, 0.517);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green
+}
+#borderMargin {
+    border: 3px solid green;
+    margin: 80px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#testP {
+    color: green;
+}
+
+p {
+    color: blueviolet
+}
